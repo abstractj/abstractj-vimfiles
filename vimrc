@@ -4,7 +4,7 @@ syntax on
 " Force bash mode, even in zsh, so Rails.vim work
 set sh=zsh
 
-" Display line numbers and information ruler
+" Display line numbers and  ruler
 set number
 set ruler
 
